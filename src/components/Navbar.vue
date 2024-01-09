@@ -5,6 +5,7 @@
 			<router-link to="/">Home</router-link>
 			<router-link to="/viem-public">Public Client</router-link>
 			<router-link to="/viem-wallet">Wallet Client</router-link>
+			<router-link to="/viem-contract">Contract</router-link>
 		</div>
 		<div class="right">
 			<ViemWalletConnect />

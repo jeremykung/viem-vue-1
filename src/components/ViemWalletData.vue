@@ -1,10 +1,4 @@
 <template>
-	<!-- 
-        1. Show current assets of wallet on this page ✅
-        2. Create a new smart contract and deploy on sepolia
-        3. Learn readContract viem
-        4. Create new view in this app that reads contract
-     -->
 	<div class="account-details">
 		<h2>Account / Wallet Info</h2>
 		<p>Address: {{ address }}</p>

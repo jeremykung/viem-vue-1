@@ -15,3 +15,5 @@ export async function connectWallet() {
 		console.log("get address error:", error)
 	}
 }
+
+export const [account] = await walletClient.getAddresses()
